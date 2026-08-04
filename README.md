@@ -10,3 +10,7 @@ Course:- BCA
 
 
 
+Sub :- OS
+
+Faculty:- Priya MAM
+
